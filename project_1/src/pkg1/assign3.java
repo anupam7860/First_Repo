@@ -33,7 +33,7 @@ public class assign3 {
 	public static void main(String[] args) 
 	{
 		
-		assign3 obj=new assign3(1,2);
+		assign3 obj1=new assign3(1,2);
 	}
 
 }

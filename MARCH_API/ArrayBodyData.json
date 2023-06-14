@@ -1,0 +1,22 @@
+{
+  "firstname": "andy",
+  "lastname": "main",
+  "id": "mine",
+  "role": "senior",
+  "Address" :
+  [
+{
+"house no" :"233",
+"sector"	:"Type 2",
+"Type": "Primary"
+},
+
+{
+"house no" : "246",
+"sector": "sector 22",
+"type" : "Secondary"
+}
+],
+"Designation" : "Senior Manger"
+}
+
